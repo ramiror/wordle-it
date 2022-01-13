@@ -1223,7 +1223,7 @@ this.wordle = this.wordle || {}, this.wordle.bundle = function(e) {
                       }
                   })), this.shadowRoot.getElementById("settings").addEventListener("click", (function(a) {
                       var s = e.$game.querySelector("game-page"),
-                          t = document.createTextNode("Impostazioni");
+                          t = document.createTextNode("Pimp my game");
                       s.appendChild(t);
                       var o = document.createElement("game-settings");
                       o.setAttribute("slot", "content"), o.gameApp = e, s.appendChild(o), s.setAttribute("open", "")
