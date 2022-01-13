@@ -1097,7 +1097,7 @@ this.wordle = this.wordle || {}, this.wordle.bundle = function(e) {
                               }(s, this.boardState[this.rowIndex - 1], this.evaluations[this.rowIndex - 1]),
                               o = t.validGuess,
                               r = t.errorMessage;
-                          if (!o) return a.setAttribute("invalid", ""), void this.addToast(r || "Non valido quando il gioco si fa duro")
+                          if (!o) return a.setAttribute("invalid", ""), void this.addToast(r || "Dije para machos, mogólico")
                       }
                       var n = function(e, a) {
                           for (var s = Array(a.length).fill(Ca), t = Array(a.length).fill(!0), o = Array(a.length).fill(!0), r = 0; r < e.length; r++) e[r] === a[r] && o[r] && (s[r] = Ia, t[r] = !1, o[r] = !1);
