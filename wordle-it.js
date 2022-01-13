@@ -939,8 +939,8 @@ this.wordle = this.wordle || {}, this.wordle.bundle = function(e) {
       }]), t
   }(c(HTMLElement));
   customElements.define("game-toast", Ea);
-  var Aa = ["tetas", "culos", "rugby", "putas", "trolo", "loser", "negro", "pobre", "putos"],
-      La = ["tetas", "culos", "rugby", "putas", "trolo", "loser", "negro", "pobre", "putos"],
+  var Aa = ["tetas", "culos", "rugby", "putas", "trolo", "loser", "negro", "pobre", "putos", "miami", "macri", "milei", "zurdo", "zurda", "zurde", "cucas", "yegua"],
+      La = ["tetas", "culos", "rugby", "putas", "trolo", "loser", "negro", "pobre", "putos", "miami", "macri", "milei", "zurdo", "zurda", "zurde", "cucas", "yegua"],
       Ta = "present",
       Ia = "correct",
       Ca = "absent";
